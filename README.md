@@ -55,7 +55,7 @@ Soy estudiante universitario de **Desarrollo de Software**, enfocado principalme
 ## 📫 Contacto
 <!-- Pendiente agregar Portafolio -->
 * 💼 LinkedIn: https://www.linkedin.com/in/ramses-szobotka-756646272
-* 📧 Email: ramseszobotka@gmail.com
+* 📧 Email: VlastosKr@gmail.com
 <!-- * 🌐 Portafolio: *(si tienes)*-->
 
 ---
