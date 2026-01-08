@@ -59,7 +59,7 @@ Soy estudiante universitario de **Desarrollo de Software**, enfocado principalme
 <!-- Pendiente agregar Portafolio -->
 * 💼 LinkedIn: https://www.linkedin.com/in/ramses-szobotka-756646272
 * 📧 Email:ramseszobotka14@gmail.com
-* 👨🏾‍💻 Portafolio: https://ramses-szobotka.netlify.app/public/portfolio
+* 👨🏾‍💻 Portafolio: https://ramses-szobotka.netlify.app
 
 ---
 
