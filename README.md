@@ -8,7 +8,7 @@
 
 ## 🤔 Sobre mí
 
-Soy estudiante universitario de **Desarrollo de Software**, enfocado en **backend**, diseño de **APIs**, manejo de **bases de datos** y desarrollo con **agentes de IA**. Me interesa construir soluciones reales, mantenibles y bien estructuradas.
+Soy estudiante universitario de **Desarrollo y Gestion de Software**, enfocado en **backend**, diseño de **APIs**, manejo de **bases de datos** y desarrollo con **agentes de IA**. Me interesa construir soluciones reales, mantenibles y bien estructuradas.
 
 - 🎓 Estudiante universitario
 - 💻 **Backend / APIs / Manejo de datos**
