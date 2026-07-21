@@ -75,14 +75,14 @@ Soy estudiante universitario de **Desarrollo de Software**, enfocado en **backen
       <p align="center"><strong>TypeScript · FastAPI · WebSockets</strong></p>
     </td>
     <td width="50%">
-      <h3 align="center">Plataforma de Acarreos</h3>
+      <h3 align="center">Carglyn</h3>
       <p align="center">
         <a href="https://github.com/RamsesSzobotka/Plataforma-de-acarreo" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamsesSzobotka&repo=Plataforma-de-acarreo&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">Marketplace C2C de transporte de mercancías con tracking GPS, chat en tiempo real y pagos con Stripe.</p>
-      <p align="center"><strong>React · Hono · MongoDB · Stripe</strong></p>
+      <p align="center"><strong>React · Hono · MongoDB · Redis · Stripe</strong></p>
     </td>
   </tr>
   <tr>
@@ -97,14 +97,14 @@ Soy estudiante universitario de **Desarrollo de Software**, enfocado en **backen
       <p align="center"><strong>Python · REST API · JWT</strong></p>
     </td>
     <td width="50%">
-      <h3 align="center">orcApp</h3>
+      <h3 align="center">Damas Universe</h3>
       <p align="center">
-        <a href="https://github.com/RamsesSzobotka/orcApp" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamsesSzobotka&repo=orcApp&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/RamsesSzobotka/Damas-" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamsesSzobotka&repo=Damas-&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p align="center">App móvil que reconoce texto en tiempo real usando la cámara del dispositivo con tecnología OCR.</p>
-      <p align="center"><strong>Java · Android · ML Kit</strong></p>
+      <p align="center">Plataforma de damas (checkers) con IA basada en <strong>algoritmo A* puro</strong>, 4 niveles de dificultad, microservicio de IA independiente, skins, rankings y modo espectador IA vs IA.</p>
+      <p align="center"><strong>TypeScript · TanStack Start · Bun · Hono · A* AI</strong></p>
     </td>
   </tr>
 </table>
