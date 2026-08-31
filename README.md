@@ -36,6 +36,7 @@ Soy estudiante universitario de **Desarrollo y Gestion de Software**, enfocado e
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 
 ### Bases de datos
 
